@@ -53,7 +53,7 @@ Original:
  width: 95%;
  }
  .kanban-card {
- background-color: grey;
+ background-color: white;
  margin: 8px;
  box-shadow: 0px 1px 2px #9eb3c0;
  padding: 10px;
@@ -591,3 +591,6 @@ Original:
  background:0
  }
  
+span.rm-page-ref[data-tag="habit/fitness"]::before  {
+    content: "💭 "
+}
