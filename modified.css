@@ -594,3 +594,10 @@ Original:
 span.rm-page-ref[data-tag="habit/fitness"]::before  {
     content: "💭 "
 }
+
+/* Hide mobile bar on iPad */
+@media (min-device-width : 1024px) {
+  #rm-mobile-bar {
+  display: none !important;
+  }}
+
