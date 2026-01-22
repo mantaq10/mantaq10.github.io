@@ -8,8 +8,6 @@
 {%- endif -%} 
 ';
 
-/* This is the remaining of the Chinese Guy's Theme */
-
 
 @media(prefers-color-scheme:light) {
 
@@ -1297,6 +1295,7 @@
     --sidebar-btn-color: var(--muted_contrast);
     --tag-border: var(--muted_contrast);
     --link-hover-color: var(--muted_contrast);
+    --label-color: var(--muted_contrast);
 
 
     //ink_standard (3)
@@ -1306,7 +1305,6 @@
     --btn-patinator-text-color: var(--ink_standard);
 
     //ink_contrast (7)
-    --label-color: var(--ink_contrast);
     --avatar-border-color: var(--ink_contrast);
     --btn-share-hover-color: var(--ink_contrast);
     --card-bg: var(--ink_contrast);
@@ -1382,7 +1380,7 @@
     --ink_standard: #8397a0;
     --ink_contrast: #081d27;
     --flare_standard: #bc8084;
-    --flare_contrast: #175471;
+    --flare_contrast: #2279a2;
     --flare-special: #bc8084;
 
     --site-title-color: var(--flare-special);
@@ -1437,6 +1435,7 @@
     --sidebar-btn-color: var(--muted_contrast);
     --tag-border: var(--muted_contrast);
     --link-hover-color: var(--muted_contrast);
+    --label-color: var(--muted_contrast);
 
 
     //ink_standard (3)
@@ -1446,7 +1445,6 @@
     --btn-patinator-text-color: var(--ink_standard);
 
     //ink_contrast (7)
-    --label-color: var(--ink_contrast);
     --avatar-border-color: var(--ink_contrast);
     --btn-share-hover-color: var(--ink_contrast);
     --card-bg: var(--ink_contrast);
@@ -1577,7 +1575,7 @@ body {
   padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: "Funnel Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
 /* defaul wider sidebar can add more icons but breaks the rest of the page on China */
