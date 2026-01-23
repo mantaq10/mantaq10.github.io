@@ -12,10 +12,6 @@ tags: jekyll ruby
 ---
 I am thinking that the best way to do this is to write it directly from VS Code even though this is a good tool but worth the 15 dollar cost? 
 
----
-layout: post
-title: "Highcharts test"
----
 
 Here is a **Highcharts** demo chart.
 <script src="https://code.highcharts.com/highcharts.js"></script>
