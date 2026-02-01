@@ -1,6 +1,6 @@
 layout: post
 title: Deliberate practices
-date: 
+date: 2026-01-22 17:30
 description: 
 image:
 category: [Reflections, Practice]

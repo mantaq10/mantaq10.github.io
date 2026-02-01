@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kind vs wicked learning environments
-date: 
+date: 2026-01-22 17:30
 description: Shortlisted techniques from the smeinal paper on learning that has been reproducible and hard to refute simultaneously alongside an approach on building a practice for a lifestyle of lifelong learning. 
 image:
 category: [Reflections, Practice]

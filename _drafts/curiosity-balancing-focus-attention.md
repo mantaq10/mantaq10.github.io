@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Curios case for balancing focus and attention
-date: 
+date: 2026-01-22 17:30
 description: 
 image:
 category: [Reflections, Practice]

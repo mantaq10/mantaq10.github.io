@@ -1,6 +1,6 @@
 layout: post
 title: Building a blog using Jekyll
-date: 
+date: 2026-01-22 17:30
 description: 
 image:
 category: [Tech, Web]
