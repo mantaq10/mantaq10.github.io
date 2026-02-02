@@ -2,8 +2,8 @@
 layout: post
 date: 2026-02-02 02:13 +0500
 title: On the inherent fragility of expertise
-description: Why expertise doesn't remain so. How to ensure your expertise stays relavent. Mindset shift and mental models from navigating
-  to wayfinding. 
+description: Why expertise doesn't remain so. How to ensure your expertise stays relavent.
+  Mindset shift and mental models from navigating to wayfinding.
 category:
 - Reflections
 - Mindset
@@ -19,15 +19,19 @@ Expertise is the discovery about the inner workings of a topic and a set of skil
 
 Some experts have better maps than others. They fare better. however, the world is changing all the time and thus the terrains are continuously evolving. Sometimes, there are tectonic shifts and the terrains are no longer recognisable and our existing maps mislead us. We need a fail-proof to ensure we are able to detect changes in the terrain. We need maps for both navigating and wayfinding.
 
-## Navigating vs Wayfinding
+### Navigating vs Wayfinding
 
 Navigation is exploiting the known, wayfinding is exploring the unknown. Navigation is using Google Maps, wayfinding is being dropped in an uncharted forrest. Navigation rewards efficiency and productivity. Wayfinding requires resilience and sustainability. Drop a London cabbie in a random forrest and see them wiggle. Expertise requires both strategies. 
 
 Explorers love traversing new terrains. They are the way finders who chart the first maps. Explorers also learn from other explorers, incrementally improving these early maps till they become suitable for exploiters to navigate upon. Exploiters take these terrains for granted and master the maps. Though their specialty is in navigating the maps and not charting out terrains. They are optimisers and they value efficiency and productivity. 
 
-There is a place for both exploration and exploitation. For a known terrain, its better to start off from established maps and learn to navigate. We gain expertise by learning these maps from others. Though if we internalise the maps without questioning the terrain, our expertise becomes brittle and irrelevant. We further lose our way when we rely on experts who are operating on outdated maps. Even worse, the experts are us who are not ready to accept that the terrains have changed. 
+There is a place for both exploration and exploitation. For a known terrain, its better to start off from established maps and learn to navigate. We gain expertise by learning these maps from others. Though if we internalise the maps without questioning the terrain, our expertise becomes brittle and risk becoming irrelevant. We further lose our way when we rely on experts who are operating on outdated maps. Even worse, we are these experts who are not ready to accept that the terrains have changed. 
 
-Wayfinding is universal, it applies to all terrains. While we can start off by building expertise by learning from others, we need better and additional tools of thinking to ensure that our hard earned expertise remains relevant and useful. Here are some mental models:
+### Robust Expertise
+
+Wayfinding is universal, it applies to all terrains. While we can start off by building expertise by learning from others, we need better and additional tools of thinking to ensure that our hard earned expertise remains relevant and useful.
+
+We are the sum result of our beliefs, their underlying assumptions and an inherent ego that guards our identity for self-preservation. Our upbringing creates the initial maps for us to navigate the world. These are our priors and its hard to test these while simultaneously being equipped by them. They are like lenses or frames we use to observe the world. Why do we have to wait till a life changing calamity or an external disruption lead us astray? 
 
 ## Adopt a beginner’s mind
 
