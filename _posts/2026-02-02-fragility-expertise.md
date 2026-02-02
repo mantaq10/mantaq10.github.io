@@ -33,7 +33,7 @@ Wayfinding is universal, it applies to all terrains. While we can start off by b
 
 We are the sum result of our beliefs, their underlying assumptions and an inherent ego that guards our identity for self-preservation. Our upbringing creates the initial maps for us to navigate the world. These are our priors and its hard to test these while simultaneously being equipped by them. They are like lenses or frames we use to observe the world. Why do we have to wait till a life changing calamity or an external disruption lead us astray? 
 
-## Adopt a beginner’s mind
+## Adopt a Beginner’s Mind
 
 When creative destruction takes place, it is often too late to adapt. Even if there is no external disruption, there is inherent value in truth seeking and open mindedness. Clarity is charting the boundaries of our priors. This is in knowing which evidence, information or reasoning will change our beliefs? True expertise is being open to update our beliefs. This is akin to wayfinding. 
 
@@ -41,7 +41,7 @@ There are many reasons why navigating comes easy while wayfinding is not everybo
 
 > “In the Beginner's Mind there are many possibilities, in the expert’s mind there are only few.” Suzuki Roshi.
 
-## Ask DUMB questions
+## Ask DUMB Questions
 
 I have an hypothesis: Dumb questions are labelled dumb because they are taken for granted and are assumed to be so. For many, asking dumb questions provokes social anxiety. One may feel risking their reputation and their persona. I find that dumb questions as tools for seeking clarity. The answer to my dumb question may be obvious to others but now im better informed as well. Better yet, the answers may trigger a discussion that benefits shared understanding on the problem space. Nevertheless, not asking the dumb question upfront will almost always be exposed later down the road. The only downside is to appear as an idiot though its better to appear an idiot early on than later. I have an acronym for this:
 
@@ -49,7 +49,7 @@ I have an hypothesis: Dumb questions are labelled dumb because they are taken fo
 
 Psychologists talk about the bystander effect. When in trouble, asking a group for help doesn’t work. Each one in the group generally assumes the other will respond. In return no one steps forward. When starting projects, often people rush towards the solution space assuming the problem is well understood and someone in the group knows the map. We can assume that no one knows the full picture and we can assume that without asking DUMB questions, we won’t be able to test these assumptions. Asking DUMB questions require taking yourself not too seriously. It relates back to guarding our reputation and assuming that asking DUMB questions ruins it. I believe (held loosely) that collective intelligence excels under two assumptions: 1) You can be wrong 2) Simultaneously others can be wrong too . Asking DUMB questions is smart, group think is dumb.
 
-## Strong beliefs held loosely
+## Strong Beliefs Held Loosely
 
 As we are growing up we inherit beliefs from others. When we start a new domain, we learn from the established body of knowledge. We learn to navigate with the given maps. As we gain expertise, we may also develop some idiosyncrasies. These are internalised by the combination of all the beliefs and assumptions we inherited from nature, nurture and neighbourhood. Either of the inherited or the self-internalised beliefs and assumptions can be wrong. We can’t start from an ideal position (unknown) though we can course correct. 
 
