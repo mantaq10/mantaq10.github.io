@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-01-22 17:30
-title: TUIs vs Apple's Liquid Glass
+title: Template
 description: No one saw it coming that 2025 will be the year of the TUI (Terminal
   User Interface) and why Apple's Liquid Glass shows a serious dearth of design leadership
   when the world needs to interact beyond AI chatbots.
@@ -11,6 +11,23 @@ category:
 - UI & UX
 tags: apple TUI
 ---
+
+
+> Just a Prompt
+
+
+> This is an info prompt.
+{: .prompt-info }
+
+> This is a tip
+{: .prompt-tip }
+
+> This is a warning
+{: .prompt-warning}
+
+> This is a prompt danger
+{: .prompt-danger}
+
 <div id="chart"></div>
 
 ### Apex Charts
