@@ -1,10 +1,12 @@
 ---
 # the default layout is 'page'
+layout: page
 icon: fas fa-info-circle
 order: 1
 ---
 
-“Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.” Richard Bach, Illusions {: .prompt-tip }
+> “Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.” Richard Bach, Illusions
+{: .prompt-tip }
 
 ## Where I am coming from?
 Writing is thinking. Writing in public is yearning for connection amongst the vast emptiness of noise. It is a call to action to escape the void. I confess it is an effort in hubris of my own frailty against the tides of AI and attention scarcity. It is merely an act to self-preserve. When all is forgotten and forged in a digital pile of graves, you and I witnessed us! 
